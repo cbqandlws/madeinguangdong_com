@@ -71,8 +71,8 @@ p {
     display: inline-block; /* 使按钮成为块级元素 */
     margin-top: 10px; /* 上边距 */
     padding: 10px 20px; /* 内边距 */
-    background: #28a745; /* 绿色背景 */
-    color: #ffffff; /* 白色文字 */
+    background: #fff; /* 绿色背景 */
+    color: #247a8c; /* 白色文字 */
     text-decoration: none; /* 去掉下划线 */
     border-radius: 5px; /* 圆角 */
     transition: background 0.3s; /* 背景色过渡效果 */
@@ -80,7 +80,8 @@ p {
 
 /* 按钮悬停效果 */
 .button:hover {
-    background: #218838; /* 悬停时的深绿色 */
+    background-color: #247a8c;/* 白色背景 */
+    color: white;
 }
 
 /* 页脚样式 */
