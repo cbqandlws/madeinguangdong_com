@@ -70,6 +70,7 @@ p {
 .button {
     display: inline-block; /* 使按钮成为块级元素 */
     margin-top: 10px; /* 上边距 */
+    border: solid 1px #2c89a0; /* 绿色边框 */
     padding: 10px 20px; /* 内边距 */
     background: #fff; /* 绿色背景 */
     color: #247a8c; /* 白色文字 */
